@@ -6,7 +6,7 @@ import Settings from "./pages/settings/Settings";
 import Single from "./pages/single/Single";
 import Home from "./pages/home/Home";
 
-import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
 function App() {
   const user = false;
